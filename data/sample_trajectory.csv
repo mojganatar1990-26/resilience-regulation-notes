@@ -1,0 +1,7 @@
+child_id,episode_id,distress_peak,intensity_start,intensity_peak,seconds_to_level1,reengaged,episode_order
+C01,1,crying,2,3,28,1,1
+C01,2,avoidance,1,2,18,1,2
+C01,3,aggression,2,3,35,0,3
+C02,1,avoidance,1,2,22,1,1
+C02,2,crying,2,2,15,1,2
+C03,1,crying,2,3,40,0,1
