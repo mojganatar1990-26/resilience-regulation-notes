@@ -23,10 +23,6 @@ Intensity Scale (Preliminary):
 2 = Clear distress behavior lasting several seconds  
 3 = Strong and sustained distress response  
 Duration:
-A distress episode begins at the first observable marker 
-and continues until intensity decreases to level 1 
-and remains stable for a short, continuous period (e.g., 20–30 seconds).
-Level 1 is considered a low and manageable level of distress, 
-rather than a complete absence of emotional activation.
-This framework is preliminary and will require further refinement, 
-including clearer timing rules and inter-rater reliability testing.
+A distress episode begins at the first observable marker and continues until the intensity decreases to level 1, and then remains stable for a short, continuous period (e.g., 20–30 seconds).
+Level 1 is considered a low, manageable level of distress rather than a complete absence of emotional activation.
+This framework is preliminary and will require further refinement, including clearer timing rules and inter-rater reliability testing.
