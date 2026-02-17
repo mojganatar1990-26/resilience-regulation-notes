@@ -13,8 +13,7 @@ print(avg_recovery)
 reengage_rate <- aggregate(reengaged ~ child_id, data = d, FUN = mean)
 names(reengage_rate)[2] <- "reengage_rate"
 print(reengage_rate)
-# 4) Do episodes get faster or slower? (simple slope idea)
-# Here we just compare first vs last episode recovery time per child
+# 4) Change from first to last episode (simple trajectory signal)
 first_last <- do.call(rbind, lapply(split(d, d$child_id), function(x) {
   x <- x[order(x$episode_order), ]
   data.frame(
