@@ -1,27 +1,32 @@
-# Observable Distress Markers (Preliminary Coding Framework)
+# Observable Distress Markers (Preliminary Framework)
 In this project, distress is defined through observable behavioral and emotional indicators during a mild frustration task.
 Distress will be coded along three dimensions:
-1. Type of distress behavior
-2. Intensity (rated on a simple scale)
+1. Type of behavior
+2. Intensity (0–3 scale)
 3. Duration
 Behavioral Categories:
 Crying / Vocal Distress:
 - Audible crying
-- Repeated distress sounds (e.g., whining, protesting)
+- Repeated protest sounds (e.g., whining)
 - Visible tears
 Avoidance / Withdrawal:
 - Turning away from the task
 - Pushing materials aside
-- Lack of engagement for a sustained period
+- Lack of engagement for a noticeable period
 Aggressive Response:
 - Throwing objects
-- Hitting the table or task materials
-- Sudden forceful movements directed at the task
-Intensity (Preliminary 0–3 scale):
-0 = No observable distress
-1 = Mild signs (brief protest or tension)
-2 = Clear distress behavior lasting several seconds
-3 = Strong and sustained distress response
+- Hitting the table or materials
+- Forceful movements directed at the task
+Intensity Scale (Preliminary):
+0 = No observable distress  
+1 = Mild signs of distress (brief protest, visible tension)  
+2 = Clear distress behavior lasting several seconds  
+3 = Strong and sustained distress response  
 Duration:
-Distress episodes will be timed from the first observable marker to a noticeable reduction in intensity.
-This coding structure is preliminary and requires further refinement and reliability testing.
+A distress episode begins at the first observable marker 
+and continues until intensity decreases to level 1 
+and remains stable for a short, continuous period (e.g., 20–30 seconds).
+Level 1 is considered a low and manageable level of distress, 
+rather than a complete absence of emotional activation.
+This framework is preliminary and will require further refinement, 
+including clearer timing rules and inter-rater reliability testing.
